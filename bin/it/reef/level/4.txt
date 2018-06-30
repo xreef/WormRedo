@@ -1,0 +1,40 @@
+..                                              ..
+'                                                |
+
+
+
+
+
+
+       ,--------Y               ,--------b
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX|               |XXXXXXXX|
+       |XXXXXXXX,'''''''''''''''''''''''''
+       |XXXXXXXX|XXXXXXXXXXXXXXXXXXXXXXXX|
+       |XXXXXXXX|XXXXXXXXXXXXXXXXXXXXXXXX|
+       |XXXXXXXX|XXXXXXXXXXXXXXXXXXXXXXXX|
+       `--------'------------------------'
+
+
+
+
+
+
+.                                                _
++|                                              d8

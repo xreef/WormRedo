@@ -1,0 +1,40 @@
+------------------------+------------------------.
+                        |
+                        |
+                        |
+                        |
+                        |
+                        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\                                                /
+XX.                                            .'X
+XXX\                                          /XXX
+XXXX\                                        /XXXX
+XXXXX`.                                    .'XXXXX
+XXXXXXX\                                  /XXXXXXX
+XXXXXXXX\                               .'XXXXXXXX
+XXXXXXXXX`.                            /XXXXXXXXXX
+XXXXXXXXXXX\                          /XXXXXXXXXXX
+XXXXXXXXXXXX\                       .'XXXXXXXXXXXX
+XXXXXXXXXXXXX\                     /XXXXXXXXXXXXXX
+XXXXXXXXXXXXXX`.                  /XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX\               .'XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX\......,------/XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX`.XXXXXXXXX.'XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX\XXXXXXX/XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX\XXXXX/XXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX`.X.'XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX|XXXXXXXXXXXXXXXXXXXXXXXXX

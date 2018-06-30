@@ -1,0 +1,40 @@
+,------b                                  ........
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XX............................................XX|
+|XX|XXX|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|XXX|XX|
+|XX|XXX|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|XXX|XX|
+|XX|XXX|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|XXX|XX|
+|XX|___|__________________________________|___JXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+|XXXXXX|                                  |XXXXXX|
+`------'                                  '------'

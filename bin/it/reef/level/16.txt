@@ -1,0 +1,40 @@
++---+     +--+       +-----+         +-+       +-+
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|                       |X|       |X|
+|XXX|     |XX|       +-----+         |X|       |X|
+|XXX|     |XX|       |XXXXX|         |X|       |X|
+|XXX|     |XX|       |XXXXX|         |X|       |X|
+|XXX|     |XX|       |XXXXX|         |X|       |X|
+|XXX|     |XX|       |XXXXX|         |X|       |X|
+|XXX|     |XX|       |XXXXX|         |X|       |X|
+|XXX|     |XX|       |XXXXX|         |X|       |X|
+|XXX|     |XX|       |XXXXX|         |X|       |X|
+|XXX|     |XX|       |XXXXX|         |X|       |X|
+|XXX|     |XX|       |XXXXX|         |X|       |X|
+|XXX|     +--+       |XXXXX|         +-+       |X|
+|XXX|                |XXXXX|                   |X|
+|XXX|                |XXXXX|                   |X|
+|XXX|                |XXXXX|                   |X|
++---+                +-----+                   +-+

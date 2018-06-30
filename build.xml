@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="create_run_jar" name="Create Runnable Jar for Project k-3-WormRedo">
+    <!--this file was created by Eclipse Runnable JAR Export Wizard-->
+    <!--ANT 1.7 is required                                        -->
+    <target name="create_run_jar">
+        <jar destfile="/home/reef/snakeReef2.jar" filesetmanifest="mergewithoutmain">
+            <manifest>
+                <attribute name="Built-By" value="${user.name}"/>
+                <attribute name="Main-Class" value="WormFinestraPrincipale"/>
+                <attribute name="Class-Path" value="."/>
+            </manifest>
+            <fileset dir="/home/reef/progetti/workspace-games-test/k-3-WormRedo/bin"/>
+        </jar>
+    </target>
+</project>

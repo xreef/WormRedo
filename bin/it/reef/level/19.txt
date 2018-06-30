@@ -1,0 +1,39 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           sSSSs   d       b sss sssss
+          SXXXXXS  S       S     S
+         SXXXXXXXS S       S     S
+         SXXXXXXXS S       S     S
+         SXXXXXXXS S       S     S
+          SXXXXXS   S     S      S
+           "sss"     "sss"       P
+
+           sSSSs   d sss
+          SXXXXXS  S
+         SXXXXXXXS S
+         SXXXXXXXS S sSSs
+         SXXXXXXXS S
+          SXXXXXS  S
+           "sss"   P
+
+        sSSSs   d ss.  d ss    d sss   d ss.
+       SXXXXXS  S,--.b S,-Y~o  S       S,--|b
+      SXXXXXXXS S`..|P S|,+b.b S       S`--'P
+      SXXXXXXXS S sS'  S|||||S S sSSs  S sS'
+      SXXXXXXXS S   S  S|||+'P S       S   S
+       SXXXXXS  S    S S|i-'S  S       S    S
+        "sss"   P    P P ss"   P sSSss P    P

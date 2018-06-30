@@ -1,0 +1,40 @@
+,-----Y      |XXXXXX|      |XXXXXXX|      |------b
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|XXXXX|      ........      .........      |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|                                   |XXXXXX|
+|XXXXX|      +------|      +-------|      |XXXXXX|
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|XXXXX|      |XXXXXX|      |XXXXXXX|      |XXXXXX|
+|_____J      `......'      `.......'      |......'

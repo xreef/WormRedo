@@ -1,0 +1,40 @@
+.................                .................
+||XXXXX|XXXXXXXX|                |XXXXXXXXXXXXXXX|
+||XXXXX|XXXXXXXX|                |XXXXXXXXXXXXXXX|
+||XXXXX|XXXXXXXX|                |XXXXXXXXXXXXXXX|
+||XXXXX|XXXXXXXX|                |XXXXXXXXXXXXXXX|
+||XXXXX|XXXXXXXX|                |XXXXXXXXXXXXXXX|
+||XXXXX|XXXXXXXX|                |XXXXXXXXXXXXXXX|
+||XXXXX|XXXXXXXX|                |XXXXXXXXXXXXXXX|
+||XXXXX|XXXXXXXX|                |XXXXXXXXXXXXXXX|
+||XXXXX|XXXXXXXX|                |XXXXXXXXXXXXXXX|
+||XXXXX|XXXXXXXX|                |XXXXXXXXXXXXXXX|
+||XXXXX|XXXXXXXX|                |XXXXXXXXXXXXXXX|
+||XXXXX|XXXXXXXX|                |XXXXXXXXXXXXXXX|
+||XXXXX|XXXXXXXX|                |XXXXXXXXXXXXXXX|
+||XXXXX|XXXXXXXX|                |XXXXXXXXXXXXXXX|
+|i.....|........'                `...............'
+
+
+
+
+
+
+
+
+
++---------------.                 ,''''''''''''''|
+|XXXXXXXXXXXXXXX|                 |XXXXXXXXXXXXXX|
+|XXXXXXXXXXXXXXX|                 |XXXXXXXXXXXXXX|
+|XXXXXXXXXXXXXXX|                 |XXXXXXXXXXXXXX|
+|XXXXXXXXXXXXXXX|                 |XXXXXXXXXXXXXX|
+|XXXXXXXXXXXXXXX|                 |XXXXXXXXXXXXXX|
+|XXXXXXXXXXXXXXX|                 |XXXXXXXXXXXXXX|
+|XXXXXXXXXXXXXXX|                 |XXXXXXXXXXXXXX|
+|XXXXXXXXXXXXXXX|                 |XXXXXXXXXXXXXX|
+|XXXXXXXXXXXXXXX|                 |XXXXXXXXXXXXXX|
+|XXXXXXXXXXXXXXX|                 |XXXXXXXXXXXXXX|
+|XXXXXXXXXXXXXXX|                 |XXXXXXXXXXXXXX|
+|XXXXXXXXXXXXXXX|                 |XXXXXXXXXXXXXX|
+|XXXXXXXXXXXXXXX|                 |XXXXXXXXXXXXXX|
+`...............|                 |..............'
